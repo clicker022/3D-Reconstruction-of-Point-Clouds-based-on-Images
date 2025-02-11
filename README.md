@@ -8,3 +8,6 @@ Incremental SFM reconstruction(Sparse point cloud)：
 
 MVS reconstruction based on depth map fusion(Dense point cloud):
 ![image](https://github.com/user-attachments/assets/2a28262e-841b-4b74-9759-7ffaf7b0fa8c)
+
+Point cloud optimization(RadiusOutlierRemoval):
+![image](https://github.com/user-attachments/assets/0c8e9c5a-54e3-4478-968d-ebc6fc335b9f)
